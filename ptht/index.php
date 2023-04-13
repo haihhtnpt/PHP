@@ -11,8 +11,8 @@
 			<div class="menu">
 				<ul>
 					<li><a href="index.php">Trang chủ</a></li>
-					<li><a href="index.php?quanli=category">Danh sách</a></li>
-					<li><a href="index.php?quanli=search">Tìm kiếm</a></li>
+					<li><a href="index.php?qlsach=category">Danh sách</a></li>
+					<li><a href="index.php?qlsach=search">Tìm kiếm</a></li>
 				</ul>
 			</div>
 			

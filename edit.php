@@ -27,7 +27,7 @@
 					header('location:index.php');
 				}
 
-					$sql = "update quanli  set postid = '$postid'  , content = '$content', author = '$add' , date = '$date' where id = '$_GET[id]' ";
+					$sql = "update qlsach  set postid = '$postid'  ,  content = '$content', author = '$add' , date = '$date' where id = '$_GET[id]' ";
 					mysqli_query($con,$sql);
 					header('location:index.php?quanli=category');
 			}
